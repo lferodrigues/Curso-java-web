@@ -55,8 +55,8 @@ Este repositório está em constante atualização, conforme o andamento dos est
 
 ---
 
-## 🏫 Instituição
+<br><br>
 
-![IF Sudeste MG Logo](https://www.ifsudestemg.edu.br/comunicacao-social/logos/if-sudeste-mg/logo_vertical_ifsudestemg-%281%29.png)  
-Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais — **IF Sudeste MG**  
-:contentReference[oaicite:1]{index=1}
+<p align="left">
+  <img src="https://www.ifsudestemg.edu.br/comunicacao-social/logos/if-sudeste-mg/logo_vertical_ifsudestemg-%281%29.png" alt="IF Sudeste MG" width="90">
+</p>
